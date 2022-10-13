@@ -1,0 +1,34 @@
+.nav-link{
+    text-transform: uppercase;
+}
+
+section {
+    padding: 60px 0;
+}
+
+.tombol{
+    border-radius: 50px;
+}
+
+.jumbotron .display-5{
+    color: white;
+    font-weight: 200;
+    margin-bottom: 550px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.7);
+
+}
+
+.jumbotron .display-5 span{
+   font-weight: 500;
+}
+
+.jumbotron{
+    background-image: url(https://cdn.shopify.com/s/files/1/0025/7294/3473/files/banner_5_2048x.jpg?v=1648871408);
+    background-size: cover;
+    text-align: center;
+    height: 670px;
+}
+
+.footer{
+    text-align: center;
+}
